@@ -1,7 +1,7 @@
 ﻿
 #### Key Principles:
 1. **Dependency Rule**:  
-   Outer layers depend on inner layers (Presentation → Application → Domain ← Infrastructure).
+   Outer layers depend on inner layers (Presentation → Services (Application) → Domain ← Infrastructure).
 2. **Decoupled Components**:  
    Database access is abstracted via `IUserRepository`.
 3. **Testability**:  
