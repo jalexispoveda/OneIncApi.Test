@@ -37,5 +37,5 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-management-api.git
+   git clone https://github.com/jalexispoveda/OneIncApi.Test.git
 2. Execute database script from Scripts folder, in SQL server and update the connection string.
